@@ -1,0 +1,11 @@
+C:\Users\Matija\source\repos\prenos\Igra\bin\Debug\Igra.exe.config
+C:\Users\Matija\source\repos\prenos\Igra\bin\Debug\Igra.exe
+C:\Users\Matija\source\repos\prenos\Igra\bin\Debug\Igra.pdb
+C:\Users\Matija\source\repos\prenos\Igra\obj\Debug\Igra.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\prenos\Igra\obj\Debug\Igra.Properties.Resources.resources
+C:\Users\Matija\source\repos\prenos\Igra\obj\Debug\Igra.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\prenos\Igra\obj\Debug\Igra.csproj.CoreCompileInputs.cache
+C:\Users\Matija\source\repos\prenos\Igra\obj\Debug\Igra.exe
+C:\Users\Matija\source\repos\prenos\Igra\obj\Debug\Igra.pdb
+C:\Users\Matija\source\repos\prenos\Igra\obj\Debug\Igra.OknoNastavitve.resources
+C:\Users\Matija\source\repos\prenos\Igra\obj\Debug\Igra.GlOkno.resources

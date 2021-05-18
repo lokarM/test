@@ -1,0 +1,7 @@
+C:\Users\Matija\source\repos\prenos\prenos\bin\Debug\prenos.exe.config
+C:\Users\Matija\source\repos\prenos\prenos\bin\Debug\prenos.exe
+C:\Users\Matija\source\repos\prenos\prenos\bin\Debug\prenos.pdb
+C:\Users\Matija\source\repos\prenos\prenos\obj\Debug\prenos.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\prenos\prenos\obj\Debug\prenos.csproj.CoreCompileInputs.cache
+C:\Users\Matija\source\repos\prenos\prenos\obj\Debug\prenos.exe
+C:\Users\Matija\source\repos\prenos\prenos\obj\Debug\prenos.pdb
